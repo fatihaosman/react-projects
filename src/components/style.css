@@ -6,6 +6,7 @@
     align-items: center;
     flex-direction: column;
     gap :20px;
+    background-color: rgb(87, 100, 87);
    
 
 }
@@ -35,4 +36,10 @@
 .content{
     color: whitesmoke;
     height: auto;
+}
+.message{
+    color: rgb(236, 6, 6);
+    font-style: italic;
+    font-size: x-large;
+    font-weight: 500;
 }
